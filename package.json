@@ -16,9 +16,10 @@
   },
   "keywords": [
     "mongoose",
-    "simple",
-    "slugify",
-    "plugin"
+    "acl",
+    "rbac",
+    "permissions",
+    "authorization"
   ],
   "author": "Farhan Hasin Chowdhury (fhsinchy) <mail@farhan.info> (https://www.farhan.info)",
   "contributors": [
